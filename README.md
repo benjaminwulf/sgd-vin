@@ -1,2 +1,173 @@
 # sgd-vin
-🐚SGD[node239201.239203]🌀SGD[vin214c0e1a56a35762588a02273c24c3a6924d185f]
+🐚SGD[node239201.239203]🌀SGD[hash214c0e1a56a35762588a02273c24c3a6924d185f]
+
+# sgd-vin-create.new-user
+## Identity your NFT here:
+1- UID: [element]
+2- #[UID]
+3- sgd-vin => SGD[node"UID"]🌀SGD[hash"MD6-128"]
+
+# CONTACT @H1He2 on CHANNEL \#sgdnode
+🌀SGD[node] DISCORD:
+<https://discord.gg/h3JXPKX8/>
+
+# SEND <b>@H1He2</b> specific "sgd-vin" on CHANNEL \#sgdvin
+
+# current :cyclone:SGD[node] availability...
+
+#Hydrogen $500 [in person only]
+UID-H1 
+?_alias_goes_here_?
+#239201
+MD6-128
+9228a55doe97609f8eff918034947261
+#DEX $1 [1000 avail]
+
+#Helium $500 [in person only]
+UID-He2
+?_alias_goes_here_?
+#239202
+MD6-128
+eb563413cc756956fd7ec362aaedf28f
+#DEX $2 [1000 avail]
+
+#Lithium $500 [OpenSea.io]
+UID-Li3
+?_alias_goes_here_?
+#239203
+MD6-128
+02495e239c532773e2c40898bde2d2ae
+#DEX $3[1000 avail]
+
+#BERYLLIUM [RESERVED]
+UID-Be4
+#239204
+MD6-128
+640685ce4bfe1c73c9b695593739c178
+
+#BORON [RESERVED]
+UID-B5
+#239205
+MD6-128
+640685ce4bfe1c73c9b695593739c178
+
+#CARBON [RESERVED]
+UID-C6
+#239206 
+MD6-128
+e76004de1ac23a8c83e3dc2b8a396014
+
+## Getting started 
+
+To make it easy for you to get started with GitHub & GitLab:
+Here's a list of recommended next steps.
+
+# Github host all PUBLIC information:
+SITE: FRONT RANGE COMICS
+@frontrangecomics <http://frontrangecomics.com/>
+SERVICE: SHELL GAMING DOMINION
+🐚SSHell-gaming-dominion / 🐚Neuro-dominion
+@shellgamingdominion <http://shellgamingdominion.com/>
+🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
+# GitLab host all PRIVATE information:
+🌀SGD[vin] <http:// P r i v a t e A t G i t L a b (dot)com
+
+## Add your "create-user"
+
+1- CONTACT @H1He2 on \#sgdnode channel
+🌀SGD[node] DISCORD:
+<https://discord.gg/h3JXPKX8/>
+2- Request permissions to <b>SGD[vin]</b> gitlab.com repo
+3- Add your alias in this README.md:
+<https://gitlab.com/sgd-node/vin/new-user/sgd-vin-create.new-user/-/edit/main/README.md/>
+4- Replace ?_alias_goes_here_? with your "DISCORD" handle.
+5- PING @h1He2 w/in DISCORD for your <i>custom</i> OpenSea NFT to pair to your pysical :cyclone:SGD[node] ART.
+6- PATIENCE IS A VIRTURE...
+7- ENJOY! Thank you for joining SGD community.
+
+***
+
+## Name
+
+🌀SGD[node] 
+
+## Description
+
+FRONT RANGE COMICS
+NFT gaming built on a decentralized app blockchain. Learn on our regional community wikis.
+…
+ARIN <http://wiki.sgd.red/>
+AFRINIC <http://wiki.sgd.green/>
+RIPENCC <http://wiki.sgd.blue/>
+APNIC <http://wiki.sgd.pink/>
+LACNIC <http://wiki.sgd.black/>
+
+## Badges
+
+On some READMEs, as the project matures will include Badges.
+
+## Visuals
+
+Visuals and screenshots available upon request:
+info@frontrangecomics.com
+
+## Installation
+
+TBD.
+
+## Usage
+
+More information available upcon request:
+info@frontrangecomics.com
+
+## Support
+
+By email address, etc.
+info@frontrangecomics.com
+
+# CONTACT @H1He2 on CHANNEL \#sgd-support
+🌀SGD[node] DISCORD:
+<https://discord.gg/h3JXPKX8/>
+
+## Roadmap
+
+If you have ideas for releases in the future, it is a good idea to list them in the README.
+
+## Contributing
+
+For infomation about contribution email:
+info@frontrangecomics.com
+
+## Authors and acknowledgment
+
+Show your appreciation to those who have contributed to the project.
+@H1He1
+
+## License
+
+SERVICE
+:shell:SHELL GAMING DOMINION
+SOFTWARE ":cyclone:SGD[node]"
+License applied
+afferoGPLv3
+https://www.gnu.org/licenses/why-affero-gpl.en.html
+https://www.gnu.org/licenses/quick-guide-gplv3.en.html
+
+PUBLICATION
+SHELL GAMING DOMINION
+ROLE PLAYING GAME "SGD[node]"
+OPEN GAME LICENSE Version v0.0.5 beta
+https://wiki.rpg.net/index.php/Open_Game_Systems
+
+## Project status
+
+:cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.
+
+## Legal
+
+Mail to:
+
+260 1st Ave S
+Ste 200 Box #232
+St. Petersburg, FL 33701
+United States of America
