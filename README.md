@@ -7,15 +7,15 @@
 2- #[UID]
 3- sgd-vin => SGD[node"UID"]🌀SGD[hash"MD6-128"]
 
-# CONTACT @H1He2 on CHANNEL \#sgdnode
+# Contact @H1He2 on CHANNEL \#sgdnode
 🌀SGD[node] DISCORD:
 <https://discord.gg/h3JXPKX8/>
 
-# SEND <b>@H1He2</b> specific "sgd-vin" on CHANNEL \#sgdvin
+# Send @H1He2 specific "sgd-vin" on CHANNEL \#sgdvin
 
 # current :cyclone:SGD[node] availability...
 
-#Hydrogen $500 [in person only]
+# Hydrogen $500 [in person only]
 UID-H1 
 ?_alias_goes_here_?
 #239201
@@ -63,11 +63,14 @@ To make it easy for you to get started with GitHub & GitLab:
 Here's a list of recommended next steps.
 
 # Github host all PUBLIC information:
-SITE: FRONT RANGE COMICS
+
+<b>SITE: FRONT RANGE COMICS</b>
 @frontrangecomics <http://frontrangecomics.com/>
-SERVICE: SHELL GAMING DOMINION
-🐚SSHell-gaming-dominion / 🐚Neuro-dominion
+
+<b>SERVICE: SHELL GAMING DOMINION</b>
 @shellgamingdominion <http://shellgamingdominion.com/>
+
+🐚SSHell-gaming-dominion-project
 🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
 # GitLab host all PRIVATE information:
 🌀SGD[vin] <http:// P r i v a t e A t G i t L a b (dot)com
@@ -143,25 +146,35 @@ info@frontrangecomics.com
 Show your appreciation to those who have contributed to the project.
 @H1He1
 
-## License
+## License(s)
 
-SERVICE
-:shell:SHELL GAMING DOMINION
+## 🐚SSHell Gaming Dominion Project
+
+(1a)
+<b>PUBLICATION</b>
+<b><i>SHELL GAMING DOMINION vol.1-sunken-gardens</i></b> [copyright 2021-07-04]
+(2a)
+<b>SERVICE</b>
+<b><i>SHELL GAMING DOMINION</i></b> [digital copyright(s) pending]
+(3a)
 SOFTWARE ":cyclone:SGD[node]"
-License applied
 afferoGPLv3
 https://www.gnu.org/licenses/why-affero-gpl.en.html
 https://www.gnu.org/licenses/quick-guide-gplv3.en.html
-
-PUBLICATION
-SHELL GAMING DOMINION
-ROLE PLAYING GAME "SGD[node]"
-OPEN GAME LICENSE Version v0.0.5 beta
+(4a)
+ROLE PLAYING GAME "SGD[node]::rpg"
+OPEN GAME LICENSE Version v0.0.5 beta 
 https://wiki.rpg.net/index.php/Open_Game_Systems
 
 ## Project status
-
+(1b)
+Comic-con excluvive until future notice.
+(2b)
+Digital world-language 🐚SGD:: see <http:wiki.sgd.green/> for updates. Tenatively Q3 of 2022.
+(3b)
 :cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.
+(4b)
+SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022
 
 ## Legal
 
