@@ -23,7 +23,7 @@ MD6-128
 9228a55doe97609f8eff918034947261
 #DEX $1 [1000 avail]
 
-#Helium $500 [in person only]
+# Helium $500 [in person only]
 UID-He2
 ?_alias_goes_here_?
 #239202
@@ -31,7 +31,7 @@ MD6-128
 eb563413cc756956fd7ec362aaedf28f
 #DEX $2 [1000 avail]
 
-#Lithium $500 [OpenSea.io]
+# Lithium $500 [OpenSea.io]
 UID-Li3
 ?_alias_goes_here_?
 #239203
@@ -70,22 +70,24 @@ Here's a list of recommended next steps.
 <b>SERVICE: SHELL GAMING DOMINION</b>
 @shellgamingdominion <http://shellgamingdominion.com/>
 
-🐚SSHell-gaming-dominion-project
+## 🐚SSHell-gaming-dominion-project
 🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
-# GitLab host all PRIVATE information:
+
+## GitLab host all PRIVATE information:
 🌀SGD[vin] <http:// P r i v a t e A t G i t L a b (dot)com
 
 ## Add your "create-user"
 
 1- CONTACT @H1He2 on \#sgdnode channel
-🌀SGD[node] DISCORD:
-<https://discord.gg/h3JXPKX8/>
-2- Request permissions to <b>SGD[vin]</b> gitlab.com repo
-3- Add your alias in this README.md:
-<https://gitlab.com/sgd-node/vin/new-user/sgd-vin-create.new-user/-/edit/main/README.md/>
-4- Replace ?_alias_goes_here_? with your "DISCORD" handle.
-5- PING @h1He2 w/in DISCORD for your <i>custom</i> OpenSea NFT to pair to your pysical :cyclone:SGD[node] ART.
-6- PATIENCE IS A VIRTURE...
+🌀SGD[node] DISCORD:<br>
+<https://discord.gg/h3JXPKX8/> <br>
+2- Request permissions to <b>SGD[vin]</b> gitlab.com repo<br>
+3- Add your alias in this README.md:<br>
+<https://gitlab.com/sgd-node/vin/new-user/sgd-vin-create.new-user/-/edit/main/README.md/> <br>
+4- Replace ?_alias_goes_here_? with your "DISCORD" handle.<br>
+5- PING @h1He2 w/in DISCORD for your <i>custom</i> OpenSea NFT to pair to your pysical <br>
+:cyclone:SGD[node] ART.<br>
+6- PATIENCE IS A VIRTURE...<br>
 7- ENJOY! Thank you for joining SGD community.
 
 ***
@@ -96,14 +98,14 @@ Here's a list of recommended next steps.
 
 ## Description
 
-FRONT RANGE COMICS
+#### FRONT RANGE COMICS
 NFT gaming built on a decentralized app blockchain. Learn on our regional community wikis.
 …
-ARIN <http://wiki.sgd.red/>
-AFRINIC <http://wiki.sgd.green/>
-RIPENCC <http://wiki.sgd.blue/>
-APNIC <http://wiki.sgd.pink/>
-LACNIC <http://wiki.sgd.black/>
+#### ARIN <http://wiki.sgd.red/>
+#### AFRINIC <http://wiki.sgd.green/>
+#### RIPENCC <http://wiki.sgd.blue/>
+#### APNIC <http://wiki.sgd.pink/>
+#### LACNIC <http://wiki.sgd.black/>
 
 ## Badges
 
@@ -112,7 +114,8 @@ On some READMEs, as the project matures will include Badges.
 ## Visuals
 
 Visuals and screenshots available upon request:
-info@frontrangecomics.com
+
+📧 info@frontrangecomics.com
 
 ## Installation
 
@@ -121,16 +124,19 @@ TBD.
 ## Usage
 
 More information available upcon request:
-info@frontrangecomics.com
+
+📧 info@frontrangecomics.com
 
 ## Support
 
 By email address, etc.
-info@frontrangecomics.com
 
-# CONTACT @H1He2 on CHANNEL \#sgd-support
-🌀SGD[node] DISCORD:
-<https://discord.gg/h3JXPKX8/>
+📧 info@frontrangecomics.com
+
+## CONTACT @H1He2 on CHANNEL \#sgd-support
+
+🌀SGD[node] DISCORD:<br>
+<https://discord.gg/h3JXPKX8/> <br>
 
 ## Roadmap
 
@@ -139,7 +145,8 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 ## Contributing
 
 For infomation about contribution email:
-info@frontrangecomics.com
+
+📧 info@frontrangecomics.com
 
 ## Authors and acknowledgment
 
@@ -150,37 +157,38 @@ Show your appreciation to those who have contributed to the project.
 
 ## 🐚SSHell Gaming Dominion Project
 
-(1a)
-<b>PUBLICATION</b>
-<b><i>SHELL GAMING DOMINION vol.1-sunken-gardens</i></b> [copyright 2021-07-04]
-(2a)
-<b>SERVICE</b>
-<b><i>SHELL GAMING DOMINION</i></b> [digital copyright(s) pending]
-(3a)
-SOFTWARE ":cyclone:SGD[node]"
-afferoGPLv3
-https://www.gnu.org/licenses/why-affero-gpl.en.html
-https://www.gnu.org/licenses/quick-guide-gplv3.en.html
-(4a)
-ROLE PLAYING GAME "SGD[node]::rpg"
-OPEN GAME LICENSE Version v0.0.5 beta 
-https://wiki.rpg.net/index.php/Open_Game_Systems
+(1a)<br>
+<b>PUBLICATION</b><br>
+<b><i>SHELL GAMING DOMINION vol.1-sunken-gardens</i></b> [copyright 2021-07-04] <br>
+(2a)<br>
+<b>SERVICE</b><br>
+<b><i>SHELL GAMING DOMINION</i></b> [digital copyright(s) pending]<br>
+(3a)<br>
+SOFTWARE ":cyclone:SGD[node]" <br>
+afferoGPLv3<br>
+https://www.gnu.org/licenses/why-affero-gpl.en.html <br>
+https://www.gnu.org/licenses/quick-guide-gplv3.en.html <br>
+(4a) <br>
+ROLE PLAYING GAME "SGD[node]::rpg"<br>
+OPEN GAME LICENSE Version v0.0.5 beta<br>
+https://wiki.rpg.net/index.php/Open_Game_Systems <br>
 
 ## Project status
-(1b)
-Comic-con excluvive until future notice.
-(2b)
-Digital world-language 🐚SGD:: see <http:wiki.sgd.green/> for updates. Tenatively Q3 of 2022.
-(3b)
-:cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.
-(4b)
-SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022
+
+(1b)<br>
+Comic-con excluvive until future notice.<br>
+(2b)<br>
+Digital world-language 🐚SGD:: see <http:wiki.sgd.green/> for updates. Tenatively Q3 of 2022.<br>
+(3b)<br>
+:cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.<br>
+(4b)<br>
+SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022<br>
 
 ## Legal
 
-Mail to:
+## Mail to:
 
-260 1st Ave S
-Ste 200 Box #232
-St. Petersburg, FL 33701
-United States of America
+###### 260 1st Ave S
+###### Ste 200 Box #232
+###### St. Petersburg, FL 33701
+###### United States of America
