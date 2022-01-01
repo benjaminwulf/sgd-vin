@@ -15,7 +15,7 @@
 
 # current :cyclone:SGD[node] availability...
 
-# Hydrogen $500 [in person only]
+# Hydrogen [in person only]
 UID-H1 
 ?_alias_goes_here_?
 #239201
@@ -23,7 +23,7 @@ MD6-128
 9228a55doe97609f8eff918034947261
 #DEX $1 [1000 avail]
 
-# Helium $500 [in person only]
+# Helium [in person only]
 UID-He2
 ?_alias_goes_here_?
 #239202
@@ -31,13 +31,13 @@ MD6-128
 eb563413cc756956fd7ec362aaedf28f
 #DEX $2 [1000 avail]
 
-# Lithium $500 [OpenSea.io]
+# Lithium [OpenSea.io]
 UID-Li3
 ?_alias_goes_here_?
 #239203
 MD6-128
 02495e239c532773e2c40898bde2d2ae
-#DEX $3[1000 avail]
+#DEX $3 [1000 avail]
 
 #BERYLLIUM [RESERVED]
 UID-Be4
