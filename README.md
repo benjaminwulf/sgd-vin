@@ -1,18 +1,46 @@
-# sgd-vin
-🐚SGD[node239201.239172]🌀SGD[hash214c0e1a56a35762588a02273c24c3a6924d185f]
+# 🐚SSHell-gaming-dominion-project
+🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
 
-## Identity your NFT here:
-1- UID: [element]
-2- #[UID]
-3- sgd-vin => SGD[node"UID"]🌀SGD[hash"MD6-128"]
+# GitLab host all PRIVATE repo:
+🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
 
 # 🌀SGD[node] DISCORD:
 <https://discord.gg/h3JXPKX8/>
 
-# GitLab host all PRIVATE repos:
-# 🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
+## 🐚SSHell Gaming Dominion Project
 
-# Upcoming NFT
+(1a)<br>
+<b>PUBLICATION</b><br>
+<b><i>SHELL GAMING DOMINION vol.1-sunken-gardens</i></b> [copyright 2021-07-04] <br>
+(2a)<br>
+<b>SERVICE</b><br>
+<b><i>SHELL GAMING DOMINION</i></b> [digital copyright(s) pending]<br>
+(3a)<br>
+SOFTWARE ":cyclone:SGD[node]" <br>
+afferoGPLv3<br>
+https://www.gnu.org/licenses/why-affero-gpl.en.html <br>
+https://www.gnu.org/licenses/quick-guide-gplv3.en.html <br>
+(4a) <br>
+ROLE PLAYING GAME "SGD[node]::rpg"<br>
+OPEN GAME LICENSE Version v0.0.5 beta<br>
+https://wiki.rpg.net/index.php/Open_Game_Systems <br>
+
+## Project status
+
+(1b)<br>
+Comic-con excluvive until future notice.<br>
+(2b)<br>
+Digital world-language 🐚SGD:: see <http:wiki.sgd.green/> for updates. Tenatively Q3 of 2022.<br>
+(3b)<br>
+:cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.<br>
+(4b)<br>
+SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022<br>
+
+# Identity your NFT here:
+1- UID: [element]
+2- #[UID]
+3- sgd-vin => SGD[node"UID"]🌀SGD[hash"MD6-128"]
+
 # Hydrogen [in person only]
 UID-H1 
 ?_alias_goes_here_?
@@ -67,12 +95,6 @@ Here's a list of recommended next steps.
 
 <b>SERVICE: SHELL GAMING DOMINION</b>
 @shellgamingdominion <http://shellgamingdominion.com/>
-
-## 🐚SSHell-gaming-dominion-project
-🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
-
-## GitLab host all PRIVATE information:
-🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
 
 ## Add your "create-user"
 
@@ -131,11 +153,6 @@ By email address, etc.
 
 📧 info@frontrangecomics.com
 
-## CONTACT @H1He2 on CHANNEL \#sgd-support
-
-🌀SGD[node] DISCORD:<br>
-<https://discord.gg/h3JXPKX8/> <br>
-
 ## Roadmap
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
@@ -152,39 +169,14 @@ Show your appreciation to those who have contributed to the project.
 @H1He1
 
 ## License(s)
-
-## 🐚SSHell Gaming Dominion Project
-
-(1a)<br>
-<b>PUBLICATION</b><br>
-<b><i>SHELL GAMING DOMINION vol.1-sunken-gardens</i></b> [copyright 2021-07-04] <br>
-(2a)<br>
-<b>SERVICE</b><br>
-<b><i>SHELL GAMING DOMINION</i></b> [digital copyright(s) pending]<br>
-(3a)<br>
-SOFTWARE ":cyclone:SGD[node]" <br>
-afferoGPLv3<br>
-https://www.gnu.org/licenses/why-affero-gpl.en.html <br>
-https://www.gnu.org/licenses/quick-guide-gplv3.en.html <br>
-(4a) <br>
-ROLE PLAYING GAME "SGD[node]::rpg"<br>
-OPEN GAME LICENSE Version v0.0.5 beta<br>
-https://wiki.rpg.net/index.php/Open_Game_Systems <br>
-
-## Project status
-
-(1b)<br>
-Comic-con excluvive until future notice.<br>
-(2b)<br>
-Digital world-language 🐚SGD:: see <http:wiki.sgd.green/> for updates. Tenatively Q3 of 2022.<br>
-(3b)<br>
-:cyclone:SGD[node] project status is on track for v1.0.0 release in Q1 of 2024.<br>
-(4b)<br>
-SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022<br>
+SHELL GAMING DOMINION vol.1-sunken-gardens copyright 2021-07-04
+SHELL GAMING DOMINION digital copyright(s) pending 
+SSHell Gaming Dominion Project afferoGPLv3
+<https://www.gnu.org/licenses/quick-guide-gplv3.en.html/>
+SGD[node] RPD OGL
+<https://wiki.rpg.net/index.php/Open_Game_Systems/>
 
 ## Legal
-
-## Mail to:
 
 260 1st Ave S
 Ste 200 Box #232
