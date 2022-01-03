@@ -74,7 +74,7 @@ Here's a list of recommended next steps.
 🌀SGD[node] <https://github.com/benjaminwulf/sgd-vin/>
 
 ## GitLab host all PRIVATE information:
-🌀SGD[vin] <http:// P r i v a t e A t G i t L a b (dot)com
+🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
 
 ## Add your "create-user"
 
