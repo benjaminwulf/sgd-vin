@@ -11,10 +11,10 @@
 🌀SGD[node] DISCORD:
 <https://discord.gg/h3JXPKX8/>
 
-# Send @H1He2 specific "sgd-vin" on CHANNEL \#sgdvin
+## GitLab host all PRIVATE information:
+🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
 
-# current :cyclone:SGD[node] availability...
-
+# Upcoming NFT
 # Hydrogen [in person only]
 UID-H1 
 ?_alias_goes_here_?
