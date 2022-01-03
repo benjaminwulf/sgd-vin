@@ -1,18 +1,16 @@
 # sgd-vin
-🐚SGD[node239201.239203]🌀SGD[hash214c0e1a56a35762588a02273c24c3a6924d185f]
+🐚SGD[node239201.239172]🌀SGD[hash214c0e1a56a35762588a02273c24c3a6924d185f]
 
-# sgd-vin-create.new-user
 ## Identity your NFT here:
 1- UID: [element]
 2- #[UID]
 3- sgd-vin => SGD[node"UID"]🌀SGD[hash"MD6-128"]
 
-# Contact @H1He2 on CHANNEL \#sgdnode
-🌀SGD[node] DISCORD:
+# 🌀SGD[node] DISCORD:
 <https://discord.gg/h3JXPKX8/>
 
-## GitLab host all PRIVATE information:
-🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
+# GitLab host all PRIVATE repos:
+# 🌀SGD[vin] <https://gitlab.com/benjaminwulf/>
 
 # Upcoming NFT
 # Hydrogen [in person only]
@@ -188,7 +186,7 @@ SGD[node]::rpg project status on track for v0.5.0 beta in Q3 of 2022<br>
 
 ## Mail to:
 
-###### 260 1st Ave S
-###### Ste 200 Box #232
-###### St. Petersburg, FL 33701
-###### United States of America
+260 1st Ave S
+Ste 200 Box #232
+St. Petersburg, FL 33701
+United States of America
