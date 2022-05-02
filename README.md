@@ -1,6 +1,5 @@
 # 🐚Shell Gaming Dominion Project
 
-# 🐚SGD Platform:
 🌀SGD[node]
 https://github.com/benjaminwulf/sgd-node
 
